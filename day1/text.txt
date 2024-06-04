@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi, I am akash
-=======
-Hi!
->>>>>>> bf59c2d6803eb1bf3cf17e8c0a50542507655e3c
+Hi!!
